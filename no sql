@@ -1,0 +1,8 @@
+Proyecto pracitca noonlysql
+Data set raw.githubusercontent.com/Kara-future/laner_s.a.s/refs/heads/main/Conteo_de_Autos_y_Motos_20260123.csv
+Requerimiento
+Una empresa subsidiaria del estado desea realizar un conteo de tránsito para un análisis operativo por lo tanto requieren una base de datos que soporte los datos recolectados en diferentes fuentes, manteniendo su volumen, obteniendo consultas rápidas y resguardando los datos. La base de datos debe darles rango de tiempo, ubicación y tipo de vehículo 
+la base de datos idonea es una base de datos noonlysql por su frexibiilidad horizontal que le proporciona una exportación y trasabilidad adaptable a la cantidad de datos, una copia de seguridad por su trabajo en particionamiento y replicación
+Objetivo principal: construir una base de datos que almacene y realice consultas 
+rango de tiempo
+commit changes alksdf
